@@ -26,7 +26,7 @@ export const LoadingChatLine = () => (
             <div className="col-span-2 h-2 rounded bg-zinc-500"></div>
             <div className="col-span-1 h-2 rounded bg-zinc-500"></div>
           </div>
-          <div className="h-2 rounded bg-zinc-500"></div>
+          <div className="h-2 rounded bg-zinc-600"></div>
         </div>
       </div>
     </div>
